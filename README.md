@@ -1,0 +1,3 @@
+#发布库项目到JCenter
+
+在mylibrary的module中的build.gradle中配置
